@@ -1,7 +1,6 @@
 # Travelogic
 =========
 Ngedit dari punya orang https://github.com/cheeaun/steepless
-# percobaan2
 
 Tampilan Local
 ![nodejs](http://i448.photobucket.com/albums/qq208/concept_bucket/capture%204-4.png)
